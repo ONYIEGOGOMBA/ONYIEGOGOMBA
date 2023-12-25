@@ -4,8 +4,8 @@ I develop scalable applications and websites. I enjoy writing codes.
 
 [![ONYIEGOGOMBA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONYIEGOGOMBA)](https://github.com/ONYIEGOGOMBA/github-readme-stats)
 ### Hi there 👋, my name is ONYIEGO BRIAN GOMBA
-Greetings! I'm a passionate software engineer and web developer.
-##Here's a glimpse into my world:
+Greetings! I'm a passionate Full-Stack Developer.
+## Here's a glimpse into my world:
 
 Professionally, I thrive on writing clean, efficient code that brings ideas to life on the web. I'm the person you'll find deep in thought, solving complex problems and turning them into elegant solutions.
 
